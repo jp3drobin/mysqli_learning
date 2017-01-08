@@ -1,5 +1,6 @@
 # mysqli_learning
 http://www.imooc.com/video/6759 about mysqli
+<hr>
 mysqli_connect_1->mysqli使用解析
 <hr>
 mysqli_connect_2->mysqli使用解析2
@@ -32,4 +33,16 @@ select_10->预处理语句实现查询操作
 <hr>
 test_11->mysqli关闭自动提交实现事务处理
 <hr>
-imoocComment->mysqli结合ajax实现评论效果页面
+<h3>imoocComment->基于MySQLi实现无刷新评论系统</h3>
+<hr>
+imoocComment/index.php->mysqli结合ajax实现评论效果页面
+<hr>
+imoocComment/comment.class->通过filter_input过滤用户输入
+<hr>
+imoocComment/doAction->表单数据处理
+<hr>
+mysqli_func_12->面向过程连接mysql
+<hr>
+mysqli_func_13->面向过程更新mysql
+<hr>
+mysqli_func_14->面向过程查询mysql
